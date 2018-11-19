@@ -5,7 +5,7 @@ There are many strings "heheXX" in my code, they are my debug flag.  :)
 
 All you need is to change the image path and config the opencv environment.
 
-#License
+# License
 This code is free for research with a cite **https://github.com/sunshinnnn/Graph-Based-Image-Segmentation** and better give me a email at 774283371@qq.com(I'd like to know about it because of my curiosity :)   
 The code is forbidden for commercial use.
 
