@@ -1,5 +1,5 @@
 # Graph-Based-Image-Segmentation
-This a C++ reimplementation of the papaer **<efficient graph-based image segmentation>**. I just change the code in [https://github.com/congve1/SaliencyRC](https://github.com/congve1/SaliencyRC) from python to C++. Besides, I use the count sort method in the sorting step,so my code can process a 1200*800 image within 2s and a 1900*1500 iamge at about 36s. 
+This a C++ reimplementation of the papaer**<efficient graph-based image segmentation>**. I just change the code in [https://github.com/congve1/SaliencyRC](https://github.com/congve1/SaliencyRC) from python to C++. Besides, I use the count sort method in the sorting step,so my code can process a 1200 X 800 image within 2s and a 1900 X 1500 iamge at about 36s. 
 
 There are many strings "heheXX" in my code, they are my debug flag.  :)
 
