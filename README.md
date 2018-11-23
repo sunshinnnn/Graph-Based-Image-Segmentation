@@ -17,8 +17,11 @@ The code is forbidden for commercial use.
 # 2018.11.24
 submit my learning in HC.and repair the bug in graph-based-segmentation.
 some middle result in HC
+quantize:
 ![quantize](https://github.com/sunshinnnn/Graph-Based-Image-Segmentation/blob/improvement/2018.11.24/quantize.png)
+smooth:
 ![smooth](https://github.com/sunshinnnn/Graph-Based-Image-Segmentation/blob/improvement/2018.11.24/smooth.png)
 
 The moment the sgementation like.
 ![segmentation](https://github.com/sunshinnnn/Graph-Based-Image-Segmentation/blob/improvement/2018.11.24/segmentation.png)
+Now I can go on for RC.
